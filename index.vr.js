@@ -1,14 +1,5 @@
 import React from 'react';
-import {
-  AppRegistry,
-  asset,
-  Image,
-  Model,
-  Pano,
-  Text,
-  View,
-  VrButton
-} from 'react-vr';
+import { AppRegistry } from 'react-vr';
 
 import Playground from './Components/playground';
 
